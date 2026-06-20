@@ -169,6 +169,6 @@ This study demonstrates the effectiveness of multivariate time-series forecastin
 
 ## Prepared by
 
-**Sugumar Ranganathan**
+**Sugumar Ranganathan, M.B.A.,**
 
 
